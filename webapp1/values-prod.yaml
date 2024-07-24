@@ -1,0 +1,6 @@
+appName: prod
+
+configmap:
+  data:
+    CUSTOM_HEADER: "Welcome to Prod!"
+

@@ -1,0 +1,7 @@
+appName: dev
+
+
+configmap:
+  data:
+    CUSTOM_HEADER: "Welcome to dev"
+
